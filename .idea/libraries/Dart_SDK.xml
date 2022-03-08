@@ -1,0 +1,28 @@
+<component name="libraryTable">
+  <library name="Dart SDK">
+    <CLASSES>
+      <root url="file://J:/Environment inttliJ/dart-sdk/lib/async" />
+      <root url="file://J:/Environment inttliJ/dart-sdk/lib/cli" />
+      <root url="file://J:/Environment inttliJ/dart-sdk/lib/collection" />
+      <root url="file://J:/Environment inttliJ/dart-sdk/lib/convert" />
+      <root url="file://J:/Environment inttliJ/dart-sdk/lib/core" />
+      <root url="file://J:/Environment inttliJ/dart-sdk/lib/developer" />
+      <root url="file://J:/Environment inttliJ/dart-sdk/lib/ffi" />
+      <root url="file://J:/Environment inttliJ/dart-sdk/lib/html" />
+      <root url="file://J:/Environment inttliJ/dart-sdk/lib/indexed_db" />
+      <root url="file://J:/Environment inttliJ/dart-sdk/lib/io" />
+      <root url="file://J:/Environment inttliJ/dart-sdk/lib/isolate" />
+      <root url="file://J:/Environment inttliJ/dart-sdk/lib/js" />
+      <root url="file://J:/Environment inttliJ/dart-sdk/lib/js_util" />
+      <root url="file://J:/Environment inttliJ/dart-sdk/lib/math" />
+      <root url="file://J:/Environment inttliJ/dart-sdk/lib/mirrors" />
+      <root url="file://J:/Environment inttliJ/dart-sdk/lib/svg" />
+      <root url="file://J:/Environment inttliJ/dart-sdk/lib/typed_data" />
+      <root url="file://J:/Environment inttliJ/dart-sdk/lib/web_audio" />
+      <root url="file://J:/Environment inttliJ/dart-sdk/lib/web_gl" />
+      <root url="file://J:/Environment inttliJ/dart-sdk/lib/web_sql" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
